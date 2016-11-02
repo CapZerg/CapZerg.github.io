@@ -1,0 +1,339 @@
+body { 
+	margin: 0px; 
+}
+@font-face {
+	font-family: SavileW00-Light;
+	src: url(fonts/SavileW00Light.ttf);
+}
+h1 {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: 40px;
+	font-size: 40px;
+	font-family: SavileW00-Light;
+}
+h2 {
+	position: relative;
+	top: 70px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 25px;
+	font-family: SavileW00-Light;
+}
+h3 {
+	position: relative;
+	top: 30px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-size: 14px;
+	font-family: SavileW00-Light;
+}
+h4 {
+	position: relative;
+	top: 12px;
+	text-align: center;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+	font-family: SavileW00-Light;
+}
+h5 {
+	position: relative;
+	top: 20px;
+	margin: 0px;
+	padding: 0px;
+	color: white;
+	text-align: center;
+	font-family: SavileW00-Light;
+}
+.downAbout {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: 280px;
+}
+.downPortfolio {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -660px;
+}
+.buttonload {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+	text-align: center;
+	top: -720px;
+	left: 470px;
+	width: 250px;
+	height: 50px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioFirst {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: 100px;
+	width: 220px;
+	height: 310px;
+	box-shadow: 4px 5px 2px lightgray;
+
+}
+.portfolioSecond {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -210px;
+	left: 330px;
+	width: 220px;
+	height: 310px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioThird {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -520px;
+	left: 650px;
+	width: 220px;
+	height: 310px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioFourth {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -830px;
+	left: 980px;
+	width: 220px;
+	height: 310px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+
+.portfolioFirst img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioSecond img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioThird img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioFourth img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.header { 
+	background: #181B1E; 
+	height: 60px; 
+	margin: 0px;
+}
+.headermax {
+	margin: 0px auto;
+	height: 60px;
+	max-width: 1200px;
+}
+.welcome {
+	height: 600px;
+	margin: 0px;
+	background-image: url(images/logo/image.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.welcomemax {
+	margin: 0px auto;
+	max-width: 1200px;
+	height: 600px;
+}
+.welcome h1 {
+	color: white;
+	position: relative;
+	top: 200px;
+	font-size: 60px;
+}
+.aboutme {
+	background: #F2F2F2;
+	height: 600px;
+	margin: 0px;
+}
+.aboutmemax {
+	margin: 0px auto;
+	max-width: 1200px;
+	height: 600px;
+}
+.portfolio {
+	background: #FFFFFF;
+	height: 750px;
+	margin: 0px;
+}
+.portfoliomax {
+	margin: 0px auto;
+	max-width: 1200px;
+	height: 600px;
+}
+.contact {
+	background: #F2F2F2;
+	height: 600px;
+	margin: 0px;
+	background-image: url(images/logo/imager.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.contactmax {
+	margin: 0px auto;
+	max-width: 1200px;
+	height: 600px;
+	color: white;
+}
+.facebook img {
+	height: 60px;
+	width: 60px;
+}
+.facebook a {
+	position: relative;
+	display: inline-block;
+	top: 100px;
+	left: 480px;
+}
+.twitter img {
+	height: 60px;
+	width: 60px;
+}
+.twitter a {
+	position: relative;
+	display: inline-block;
+	top: 100px;
+	left: 480px;
+}
+.vk img {
+	height: 60px;
+	width: 60px;
+}
+.vk a {
+	position: relative;
+	display: inline-block;
+	top: 100px;
+	left: 480px;
+}
+.upwork img {
+	height: 60px;
+	width: 60px;
+}
+.upwork a {
+	position: relative;
+	display: inline-block;
+	top: 100px;
+	left: 480px;
+}
+.mail img {
+	height: 60px;
+	width: 60px;
+}
+.mail a {
+	position: relative;
+	display: inline-block;
+	top: 100px;
+	left: 480px;
+}
+.sites {
+	width: 25%;
+	margin: 0px; 
+	padding: 0px; 
+	list-style-type: none; 
+	font-size: 30px;
+	position: relative;
+	top: -295px; 
+	left: 570px;
+}
+.sites a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	position: relative;
+	margin-top: 42px;
+}
+.sites a:hover {
+	color: lightgray;
+}
+.downheader {
+	background: #181B1E; 
+	height: 60px; 
+	margin: 0px;
+}
+.logo { 
+	margin: 0;
+	text-align: center;
+	position: relative;
+	top: -80px;
+	display: block;
+	z-index: 2;
+}
+.menu1 { 
+	width: 25%;
+	margin: 0px; 
+	padding: 0px; 
+	list-style-type: none; 
+	font-size: 27px;
+	position: relative; 
+	text-align: center;
+	top: 15px; 
+	right: -200px;
+	z-index: 4;  
+}
+.menu1 li { 
+	display: inline; 
+	margin-left: 50px; 
+}
+.menu1 a {
+	color: white;
+	background: black;
+	text-decoration: none;
+	display: inline-block;
+	position: relative;
+}
+.menu1 a:hover {
+	color: lightgray;
+}
+.menu2 { 
+	width: 25%;
+	margin: 0; 
+	padding: 0; 
+	list-style-type: none; 
+	font-size: 27px;
+	position: relative; 
+	text-align: center;
+	top: -15px; 
+	right: -660px;
+	z-index: 5;  
+}
+.menu2 li { 
+	display: inline; 
+	margin-left: 50px; 
+}
+.menu2 a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	position: relative;
+}
+.menu2 a:hover {
+	color: lightgray;
+}
