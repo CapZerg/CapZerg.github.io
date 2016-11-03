@@ -51,18 +51,24 @@ h5 {
 	font-family: SavileW00-Light;
 }
 .downAbout {
+	width: 4%;
+	height: 4%;
 	margin: 0px;
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: 280px;
+	top: 120px;
+	left: 575px;
 }
 .downPortfolio {
-	margin: 0px;
-	padding: 0px;
+	width: 4%;
+	height: 4%;
 	text-align: center;
 	position: relative;
-	top: -660px;
+	top: 500px;
+	left: 575px;
+	margin: 0px;
+	padding: 0px;
 }
 .buttonload {
 	background-color: #F2F2F2;
@@ -82,11 +88,10 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: 100px;
+	top: 50px;
 	width: 220px;
 	height: 310px;
 	box-shadow: 4px 5px 2px lightgray;
-
 }
 .portfolioSecond {
 	background-color: #F2F2F2;
@@ -94,7 +99,7 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -210px;
+	top: -260px;
 	left: 330px;
 	width: 220px;
 	height: 310px;
@@ -106,7 +111,7 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -520px;
+	top: -570px;
 	left: 650px;
 	width: 220px;
 	height: 310px;
@@ -118,13 +123,12 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -830px;
+	top: -880px;
 	left: 980px;
 	width: 220px;
 	height: 310px;
 	box-shadow: 4px 5px 2px lightgray;
 }
-
 .portfolioFirst img {
 	max-width: 220px;
 	max-height: 200px;
@@ -171,7 +175,7 @@ h5 {
 }
 .aboutme {
 	background: #F2F2F2;
-	height: 600px;
+	height: 450px;
 	margin: 0px;
 }
 .aboutmemax {
@@ -181,7 +185,7 @@ h5 {
 }
 .portfolio {
 	background: #FFFFFF;
-	height: 750px;
+	height: 600px;
 	margin: 0px;
 }
 .portfoliomax {
@@ -276,7 +280,8 @@ h5 {
 .downheader {
 	background: #181B1E; 
 	height: 60px; 
-	margin: 0px;
+	margin: 0px auto;
+	padding: 0px;
 }
 .logo { 
 	margin: 0;
