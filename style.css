@@ -65,22 +65,10 @@ h5 {
 	height: 4%;
 	text-align: center;
 	position: relative;
-	top: 500px;
+	top: -660px;
 	left: 575px;
 	margin: 0px;
 	padding: 0px;
-}
-.buttonload {
-	background-color: #F2F2F2;
-	margin: 0px;
-	padding: 0px;
-	position: relative;
-	text-align: center;
-	top: -720px;
-	left: 470px;
-	width: 250px;
-	height: 50px;
-	box-shadow: 4px 5px 2px lightgray;
 }
 .portfolioFirst {
 	background-color: #F2F2F2;
@@ -88,9 +76,9 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: 50px;
+	top: 90px;
 	width: 220px;
-	height: 310px;
+	height: 280px;
 	box-shadow: 4px 5px 2px lightgray;
 }
 .portfolioSecond {
@@ -99,10 +87,10 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -260px;
+	top: -190px;
 	left: 330px;
 	width: 220px;
-	height: 310px;
+	height: 280px;
 	box-shadow: 4px 5px 2px lightgray;
 }
 .portfolioThird {
@@ -111,10 +99,10 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -570px;
+	top: -470px;
 	left: 650px;
 	width: 220px;
-	height: 310px;
+	height: 280px;
 	box-shadow: 4px 5px 2px lightgray;
 }
 .portfolioFourth {
@@ -123,10 +111,10 @@ h5 {
 	padding: 0px;
 	text-align: center;
 	position: relative;
-	top: -880px;
+	top: -750px;
 	left: 980px;
 	width: 220px;
-	height: 310px;
+	height: 280px;
 	box-shadow: 4px 5px 2px lightgray;
 }
 .portfolioFirst img {
@@ -156,6 +144,7 @@ h5 {
 	max-width: 1200px;
 }
 .welcome {
+	overflow: auto;
 	height: 600px;
 	margin: 0px;
 	background-image: url(images/logo/image.png);
@@ -224,7 +213,7 @@ h5 {
 .twitter a {
 	position: relative;
 	display: inline-block;
-	top: 100px;
+	top: 105px;
 	left: 480px;
 }
 .vk img {
@@ -234,7 +223,7 @@ h5 {
 .vk a {
 	position: relative;
 	display: inline-block;
-	top: 100px;
+	top: 105px;
 	left: 480px;
 }
 .upwork img {
@@ -244,7 +233,7 @@ h5 {
 .upwork a {
 	position: relative;
 	display: inline-block;
-	top: 100px;
+	top: 108px;
 	left: 480px;
 }
 .mail img {
@@ -254,11 +243,12 @@ h5 {
 .mail a {
 	position: relative;
 	display: inline-block;
-	top: 100px;
+	top: 110px;
 	left: 480px;
 }
 .sites {
-	width: 25%;
+	width: 10%;
+	height: 5%;
 	margin: 0px; 
 	padding: 0px; 
 	list-style-type: none; 
@@ -309,7 +299,6 @@ h5 {
 }
 .menu1 a {
 	color: white;
-	background: black;
 	text-decoration: none;
 	display: inline-block;
 	position: relative;
