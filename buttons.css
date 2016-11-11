@@ -1,0 +1,155 @@
+.menu1 { 
+	width: 25%;
+	margin: 0px; 
+	padding: 0px; 
+	list-style-type: none; 
+	font-size: 27px;
+	position: relative; 
+	text-align: center;
+	top: 15px; 
+	right: -200px;
+	z-index: 4;  
+}
+.menu1 li { 
+	display: inline; 
+	margin-left: 50px; 
+}
+.menu1 a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	position: relative;
+}
+.menu1 a:hover {
+	color: lightgray;
+}
+.menu2 { 
+	width: 25%;
+	margin: 0; 
+	padding: 0; 
+	list-style-type: none; 
+	font-size: 27px;
+	position: relative; 
+	text-align: center;
+	top: -15px; 
+	right: -660px;
+	z-index: 5;  
+}
+.menu2 li { 
+	display: inline; 
+	margin-left: 50px; 
+}
+.menu2 a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	position: relative;
+}
+.menu2 a:hover {
+	color: lightgray;
+}
+.sites {
+	width: 10%;
+	height: 5%;
+	margin: 0px; 
+	padding: 0px; 
+	list-style-type: none; 
+	font-size: 30px;
+	position: relative;
+	background: black;
+	top: -295px; 
+	left: 570px;
+}
+.sites a {
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 42px;
+}
+.sites a:hover {
+	color: lightgray;
+}
+.downAbout {
+	width: 4%;
+	height: 4%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: 80px;
+	left: 575px;
+}
+.downPortfolio {
+	width: 4%;
+	height: 4%;
+	text-align: center;
+	position: relative;
+	top: 110px;
+	left: 575px;
+	margin: 0px;
+	padding: 0px;
+}
+.portfolioFirst {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	left: 490px;
+	top: 60px;
+	width: 220px;
+	height: 280px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioSecond {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -190px;
+	left: 330px;
+	width: 220px;
+	height: 280px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioThird {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -470px;
+	left: 650px;
+	width: 220px;
+	height: 280px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioFourth {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	position: relative;
+	top: -750px;
+	left: 980px;
+	width: 220px;
+	height: 280px;
+	box-shadow: 4px 5px 2px lightgray;
+}
+.portfolioFirst img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioSecond img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioThird img {
+	max-width: 220px;
+	max-height: 200px;
+}
+.portfolioFourth img {
+	max-width: 220px;
+	max-height: 200px;
+}
